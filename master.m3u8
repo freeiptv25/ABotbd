@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.500000,
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:BF:A2:3B&stream=225770&extension=ts&play_token=waD393Q5bx
+#EXTINF:8.333333,
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:BF:A2:3B&stream=225770&extension=ts&play_token=waD393Q5bx
+#EXTINF:12.500000,
+http://portal.magic8kip.tv:80/play/live.php?mac=00:1A:79:BF:A2:3B&stream=225770&extension=ts&play_token=waD393Q5bx
